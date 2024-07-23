@@ -1,0 +1,2 @@
+Since the production of U.S. oil has been fluctuating a lot over the past years, this was not an easy task to predict.
+The main goal of this project was not to create a perfectly predictive model, but rather to get a better understanding of the DARTS library. 
